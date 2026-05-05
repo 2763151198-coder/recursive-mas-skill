@@ -1,0 +1,14 @@
+.workbuddy/skills/recursive-mas/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor temp files
+*~
+*.swp
+*.swo
